@@ -25,7 +25,7 @@ django-allauth
 
 # For the persistance stores
 mysql-connector-python
-django-mysqlpool
+# django-mysqlpool
 
 # Unicode slugification
 unicode-slugify
