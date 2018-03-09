@@ -24,7 +24,7 @@ Pillow
 django-allauth
 
 # For the persistance stores
-MySQL-python
+mysql-connector-python
 django-mysqlpool
 
 # Unicode slugification
