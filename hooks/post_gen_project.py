@@ -36,8 +36,8 @@ def run_management_commands():
 
 def main():
     install_requirements()
-    setup_database()
-    run_management_commands()
+    #setup_database()
+    #run_management_commands()
 
 if __name__ == '__main__':
     main()
